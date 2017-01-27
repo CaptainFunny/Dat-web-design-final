@@ -70,6 +70,35 @@ margin-left:2px;
 <!-- color:8385ae;fd31ec Times New Roman Font-->
 
 
+ul
+{
+	list-style-type:none;
+	padding:0;
+	width:200px;
+	margin:0;
+	overflow:hidden;
+	background-color:black;
+}
+
+
+
+li a
+{
+	display:block;
+	color:white;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration:none;
+}
+
+li a:hover:not(.active)
+{
+	background-color:blue;
+}
+
+
+
+
 </style>
 </head>
 <body>
