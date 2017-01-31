@@ -91,7 +91,7 @@ li a
 	display:block;
 	color:	#00FFFF;
 	text-align:center;
-	padding:0px;
+	padding:10px;
 	text-decoration:none;
 }
 
