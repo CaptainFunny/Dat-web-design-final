@@ -38,6 +38,7 @@ margin-right:5px;
 list-style-type:none;
 background-color:black;
 text-align:center;
+display:inline-block;
 vertical-align:middle;
 <!--navigation section 2| -->
 
@@ -62,7 +63,7 @@ padding:5px;
  
 img
 {
-width:795px;
+width:790px;
 height:415px;
 }
  
