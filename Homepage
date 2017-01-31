@@ -57,6 +57,7 @@ border-style:ridge;
 margin-bottom:0px;
 list-style-type:none;
 font-size:20px;
+padding:5px;
 }
  
 img
