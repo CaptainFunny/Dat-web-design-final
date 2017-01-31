@@ -29,7 +29,7 @@ div#navigation
 {
 width:15%;
 float:left;
-height:830px;
+height:540px;
 border-style:solid;
 border-color:red;
 border-width:5px;
@@ -38,8 +38,7 @@ margin-right:5px;
 list-style-type:none;
 background-color:black;
 text-align:center;
-display:inline-block;
-vertical-align:middle;
+padding-top:300px;
 
 
 
@@ -92,7 +91,7 @@ li a
 	display:block;
 	color:	#00FFFF;
 	text-align:center;
-	padding:14px 16px;
+	padding:0px;
 	text-decoration:none;
 }
 
