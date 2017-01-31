@@ -36,6 +36,7 @@ border-width:5px;
 margin-bottom:5px;
 margin-right:5px;
 list-style-type:none;
+background-color:black;
 
 <!--navigation section 2| -->
 
