@@ -48,7 +48,7 @@ div#text
 {
 background-color:white;
 width:41.75%;
-height:810px;
+height:800px;
 float:left;
 border-color:purple;
 border-width:5px;
@@ -62,7 +62,7 @@ padding:5px;
 img
 {
 width:770px;
-height:415px;
+height:400px;
 }
  
 div.image
