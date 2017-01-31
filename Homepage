@@ -29,7 +29,7 @@ div#navigation
 {
 width:15%;
 float:left;
-height:540px;
+height:830px;
 border-style:solid;
 border-color:red;
 border-width:5px;
@@ -38,7 +38,6 @@ margin-right:5px;
 list-style-type:none;
 background-color:black;
 text-align:center;
-padding-top:300px;
 
 
 
