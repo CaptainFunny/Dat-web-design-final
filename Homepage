@@ -38,7 +38,7 @@ margin-right:5px;
 list-style-type:none;
 background-color:black;
 text-align:center;
-line-height:830px;
+vertical-align:middle;
 <!--navigation section 2| -->
 
 
