@@ -59,8 +59,8 @@ list-style-type:none;
  
 img
 {
-width:795px;
-height:400px;
+width:79px;
+height:405px;
 }
  
 div#image
@@ -107,8 +107,8 @@ Technology Within Life
 
 <div id="navigation">
  <ul>
-  <li> <a href="Josh Allen Partner Project Assignment.html"> Home</a> </li>
-  <li> <a href="Page2.html"><strong>The History of Technology</strong></a> < </li>
+  <li> <a href="https://htmlpreview.github.io/?https://github.com/CaptainFunny/Dat-web-design-final/blob/master/Homepage"> Home</a> </li>
+  <li> <a href="https://htmlpreview.github.io/?https://github.com/CaptainFunny/Dat-web-design-final/blob/master/PAGE2"><strong>The History of Technology</strong></a> < </li>
   <li> <a href="Page3.html"> The Technology Takeover</a> </li>
 </ul>
 </div>
