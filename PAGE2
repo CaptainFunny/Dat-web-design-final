@@ -31,6 +31,12 @@ border-width:5px;
 margin-bottom:5px;
 margin-right:5px;
 list-style-type:none;
+text-decoration:none;
+background-color:black;
+text-align:center;
+display:inline-block;
+vertical-align:middle;
+
 
 <!--navigation section 2| -->
 
@@ -64,6 +70,31 @@ margin-left:2px;
 }
 <!-- color:8385ae;fd31ec Times New Roman Font-->
 
+ul
+{
+	list-style-type:none;
+	padding:0;
+	width:200px;
+	margin:0;
+	overflow:hidden;
+	background-color:black;
+}
+
+
+
+li a
+{
+	display:block;
+	color:	#00FFFF;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration:none;
+}
+
+li a:hover:not(.active)
+{
+	background-color:blue;
+}
 
 </style>
 </head>
@@ -76,18 +107,18 @@ Technology Within Life
 
 <div id="navigation">
  <ul>
-  <li> <a href="Josh Allen Partner Project Assignment.html"></a> </li>
-  <li> <a href="Page2.html">The History of Technology</a>You are here </li>
-  <li> <a href="Page3.html"> </a> </li>
+  <li> <a href="Josh Allen Partner Project Assignment.html"> Home</a> </li>
+  <li> <a href="Page2.html"><strong>The History of Technology</strong></a> < </li>
+  <li> <a href="Page3.html"> The Technology Takeover</a> </li>
 </ul>
 </div>
 
 <div id="text">
-This is some placeholder text about this website
-</div>
 
+</div>
+<!--- Image ---->
 <div id="image">
-<img src="https://captainfunny.github.io/Dat-web-design-final/Web%20Design%20Final%20Project.jpg"/>
+<img src="http://cdn.computerhope.com/eniac.jpg" />
 </div>
 
 
